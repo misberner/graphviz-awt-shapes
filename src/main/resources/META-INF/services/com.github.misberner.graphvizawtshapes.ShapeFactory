@@ -1,0 +1,7 @@
+com.github.misberner.graphvizawtshapes.factories.BoxFactory
+com.github.misberner.graphvizawtshapes.factories.CircleFactory
+com.github.misberner.graphvizawtshapes.factories.DoubleCircleFactory
+com.github.misberner.graphvizawtshapes.factories.EllipseFactory
+com.github.misberner.graphvizawtshapes.factories.OctagonFactory
+com.github.misberner.graphvizawtshapes.factories.SquareFactory
+com.github.misberner.graphvizawtshapes.factories.TripleOctagonFactory
