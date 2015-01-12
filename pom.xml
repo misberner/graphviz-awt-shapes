@@ -84,7 +84,7 @@
 		<!-- Plugin versions -->
 		<compiler-plugin.version>3.1</compiler-plugin.version>
 		<!-- Dependency versions -->
-		<guava.version>15.0</guava.version>
+		<guava.version>18.0</guava.version>
 	</properties>
 
 	<build>
